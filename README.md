@@ -23,6 +23,6 @@ We use the **Algonauts 2023** dataset, consisting of aligned fMRI recordings and
 ## 👩‍💻 Developers Information
 
 Developed by **[Sheema Firdous](https://www.linkedin.com/in/sheema-firdous-67b9b8181/)**;  
-as a part of **Deep Neural Networks and Learning Systems** module assessment  at **[Sheffield Hallam University](https://www.shu.ac.uk/)**
+as a part of **Deep Neural Networks and Learning Systems'** module assessment  at **[Sheffield Hallam University](https://www.shu.ac.uk/)**
 
 Supervised by [Dr. Alejandro Jiménez Rodríguez](https://www.linkedin.com/in/aljiro/)
