@@ -12,7 +12,7 @@ We use the **[Algonauts 2023](http://algonauts.csail.mit.edu/challenge.html)** d
 
 ---
 
-## 🧠 Models Implemented
+## 🧠 Experiments
 
 - **GAN**: Baseline System: A generative adversarial network trained to produce realistic images conditioned on fMRI signals.
 - **CNN + Autoencoder**: A traditional approach using convolutional encoders/decoders to address the research gap.
