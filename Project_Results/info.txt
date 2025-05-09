@@ -1,1 +1,1 @@
-
+This folder contains the model results, along with the accuracy graph plots. The workflow diagrams has been added for the proposed LLM-Enabled Image Reconstruction Pipeline.
