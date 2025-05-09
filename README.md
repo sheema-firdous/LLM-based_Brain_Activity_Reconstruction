@@ -8,7 +8,7 @@
 
 ## 📊 Dataset
 
-We use the **(Algonauts 2023)[http://algonauts.csail.mit.edu/challenge.html]** dataset, consisting of aligned fMRI recordings and corresponding image stimuli. Each image-fMRI pair is used to train and evaluate multiple reconstruction pipelines.
+We use the **[Algonauts 2023](http://algonauts.csail.mit.edu/challenge.html)** dataset, consisting of aligned fMRI recordings and corresponding image stimuli. Each image-fMRI pair is used to train and evaluate multiple reconstruction pipelines.
 
 ---
 
